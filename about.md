@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "about"
-permalink: xoxo
+permalink: xoxo.html
 ---
 
 # test
