@@ -10,5 +10,5 @@ kramdown:
   syntax_highlighter: rouge
 theme: jekyll-theme-slate
 title: Trekski's Github page
-description: Jus a way to say hello to the world!
+description: Just a way to say hello to the world!
 show_downloads: false
